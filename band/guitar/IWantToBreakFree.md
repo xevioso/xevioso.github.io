@@ -1,16 +1,3 @@
-No Chd          C
-I want to break free 
-
-I want to break free 
-
-I want to break free from your lies 
-                                  F
-You're so self satisfied I don't need you 
-	          C
-I've got to break free 
-    G         F                    C
-God knows God knows I want to break free 
-
 # I Want To Break Free
 
 [This tab](https://www.guitartabs.cc/tabs/q/queen/i_want_to_break_free_crd_ver_2.html)
@@ -18,6 +5,20 @@ God knows God knows I want to break free
 [Detailed tab](https://tabs.ultimate-guitar.com/tab/queen/i-want-to-break-free-tabs-451476)
 
 ## Verse 1
+
+I want to break [E] free 
+
+I want to break free 
+
+I want to break free from your lies 
+
+You're so self satisfied I don't [A] need you 
+
+I've got to break [E] free 
+
+God [B] knows God knows I [A] want to break [E] free 
+
+## Verse 2
 
 I've fallen in [E] love 
 
