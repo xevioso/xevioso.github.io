@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Promised Land
 
 Ah, get on it!

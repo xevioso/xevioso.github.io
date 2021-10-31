@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # I Want To Break Free
 
 [This tab](https://www.guitartabs.cc/tabs/q/queen/i_want_to_break_free_crd_ver_2.html)

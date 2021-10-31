@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Never Gonna Give You Up
 
 ## Verse 1

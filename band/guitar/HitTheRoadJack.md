@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Hit The Road Jack
 
 [This tab](https://tabs.ultimate-guitar.com/tab/ray-charles/hit-the-road-jack-chords-168021)
