@@ -16,7 +16,7 @@ A9 (002200) FP 4324-2f3-2f1-2
                                     
 ## Verse 1
 
-All the leaves are [Am] brown  [G]  [F]
+All the leaves are [Am] brown  [G]  - [F]
 
 and the [G] sky is [Esus4] gray  [E] 
 
@@ -24,17 +24,17 @@ and the [G] sky is [Esus4] gray  [E]
 
 on a [F] winter's [Esus4] day  [E]
 
-I'd be safe and [Am] warm  [G]  [F]
+I'd be safe and [Am] warm  [G]  - [F]
 
 if I [G] was in L. [Esus4] A.  [E]  [E7]
 
-California [Am] dreamin'  [G]   [F]
+California [Am] dreamin'  [G]  -  [F]
 
 on such a [Am] winter's [Esus4] day  [E]
 
 ## Verse 2
 
-Stopped in to a [Am] church  [G]  [F]
+Stopped in to a [Am] church  [G]  -  [F]
 
 I passed a- [G] long the [Esus4] way  [E]                                
 
@@ -42,7 +42,7 @@ Well I [F] got down [C] on my [Am] knees
 
 and I pre- [F] tend to [Esus4]  pray  [E]
 
-You know the preacher likes the [Am] cold  [G]  [F]
+You know the preacher likes the [Am] cold  [G]  -  [F]
 
 He knows I'm [G] gonna [Esus4] stay  [E]  [E7]
 
@@ -52,9 +52,9 @@ on such a [Am] winter's [Esus4] day  [E]
 
 
 ## Verse 3
-All the leaves are [Am] brown  [G]  [F]
+All the leaves are [Am] brown  [G]  -  [F]
 
-and the [G] sky is [Esus4] gray  [E]  [F] 
+and the [G] sky is [Esus4] gray  [E]  
 
 [F] I've been [C] for a [Am] walk
 
@@ -62,9 +62,9 @@ on a [F] winter's [Esus4] day  [E]
 
 If I didn't [Am] tell her  [G]  [F]
 
-I could [G] leave to- [Esus4] day.  [E]  [E7]
+I could [G] leave to- [Esus4] day.  [E] -  [E7]
 
-California [Am] dreamin'  [G]   [F]
+California [Am] dreamin'  [G]  - [F]
 
 on such a [Am] winter's [Esus4] day  [E]
 
@@ -81,9 +81,9 @@ play this while the flute plays:
     |E-0-0-0-0-0-0---0--0--0--0--0--0-----|
 
 then (still the flute playing)
-[Am]   [G]    [E7]    [Am]    [F]        [E7sus4]
-[Am]   [G]    [Am]    [G]     [E7sus4]   [E7]
-[Am]   [G]    [F]     [G]     [E7sus4]
+[Am]  -  [G]  -  [E7]  -  [Am]  -  [F]   -     [E7sus4]
+[Am]  - [G]  -  [Am]  -  [G]  -   [E7sus4]  - [E7]
+[Am]  - [G]  -  [F]   -  [G]  -   [E7sus4]
 
 [A]: https://www.chordbank.com/chords/a-major/  "A major"
 [Am]: https://www.chordbank.com/chords/a-minor/  "A minor"
