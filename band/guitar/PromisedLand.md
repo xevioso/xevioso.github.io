@@ -37,31 +37,14 @@ Ah when the [E] pilot told us in thirteen minutes he would set us at the termina
 ## Verse 4
 
 Swing [A] low sweet chariot come down easy, taxi to the terminal [D] zone.
-E                                                                   A
-Cut your jets and cool your wings, and let me make it to the telephone.
 
-A                                                          D
-Los Angeles give me Norfolk Virginia, tidewater four ten o nine.
-E     
-Tell the folks back home this is the promised land callin',
-                          A
-                          and the poor boy's on the line.
-A                                                                  D
-Working on a T-bone steak a la carte, flyin' over to the golden state.
-E                                                                             A
-Ah when the pilot told us in thirteen minutes he would set us at the terminal gate.
+[E] Cut your jets and cool your wings, and let me make it to the tele- [A] phone.
 
-A                                                      D
-Swing low chariot come down easy, taxi to the terminal zone.
-E                                                                   A
-Cut your engines and cool your wings, and let me make it to the telephone.
+Los [A] Angeles give me Norfolk Virginia, tidewater four ten o [D] nine.
 
-A                                                          D
-Los Angeles give me Norfolk Virginia, tidewater four ten o nine.
-E
-Tell the folks back home this is the promised land callin',
-                          A
-                          and the poor boy's on the line.
+Tell the [E] folks back home this is the promised land callin',
+
+and the [A] poor boy's on the line.
 
 
 
