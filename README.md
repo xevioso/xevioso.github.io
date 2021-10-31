@@ -1,3 +1,3 @@
 # xevioso.github.io
 Github Pages website.
-## [Band](band/)
+## [Band](band/index.md)
