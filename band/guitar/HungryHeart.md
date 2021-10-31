@@ -64,6 +64,7 @@ Every- [Am7] body's got a huh-uh- [C] un-gry heart
 
 [A]: https://www.chordbank.com/chords/a-major/  "A major"
 [Am]: https://www.chordbank.com/chords/a-minor/  "A minor"
+[Am7]: https://www.chordbank.com/chords/a-minor-7/  "A minor 7"
 [B]: https://www.chordbank.com/chords/b-major/  "B major"
 [Bm]: https://www.chordbank.com/chords/b-minor/  "B minor"
 [C]: https://www.chordbank.com/chords/c-major/  "C major"
