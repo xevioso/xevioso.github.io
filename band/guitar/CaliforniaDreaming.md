@@ -1,15 +1,8 @@
 
 # California Dreaming
 
-
-## Finger-picking tutorial
-- [https://www.youtube.com/watch?v=Mh6jWBsbn-E](https://www.youtube.com/watch?v=Mh6jWBsbn-E)
-- https://www.all-guitar-chords.com/
-- http://chordfind.com/
-
 ## Intro
 ```
-Intro is
 A9 (002200) FP 4324-2f3-2f1-2
 3 times then Esus7: Xxx455
 ```
@@ -87,6 +80,13 @@ then (still the flute playing)
 [Am]  - [G]  -  [Am]  -  [G]  -   [E7sus4]  - [E7]
 
 [Am]  - [G]  -  [F]   -  [G]  -   [E7sus4]
+
+
+## Finger-picking tutorial
+- [https://www.youtube.com/watch?v=Mh6jWBsbn-E](https://www.youtube.com/watch?v=Mh6jWBsbn-E)
+- https://www.all-guitar-chords.com/
+- http://chordfind.com/
+
 
 [A]: https://www.chordbank.com/chords/a-major/  "A major"
 [Am]: https://www.chordbank.com/chords/a-minor/  "A minor"
