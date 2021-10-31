@@ -33,8 +33,6 @@ You're the [Am] meanest old [G] woman that I've [F] ever [E7] seen.
 
 I [Am] guess if [G] you say [E7] so
 
-     Am              G          F           E7
-
 I'll [Am] have to pack my [G] things and [F] go. [E7] 
 
 (That's right)
@@ -55,88 +53,37 @@ no [Am] more, no [G] more, no [F] more, no [E7] more.
 
 Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more.
 
+## Verse 2
 
- 
+Now [Am] baby, listen [G] baby, don't-a [F] treat me this-a [E7] way
 
-[Verse]
+For [Am] I'll be [G] back on my [F] feet some [E7] day.      
 
-     Am            G            F              E7
+(Don't [Am] care if you [G] do 'cause it's [F] under- [E7] stood
 
-Now baby, listen baby, don't-a treat me this-a way
+you [Am] ain't got no [G] money you just [F] ain't no [E7] good.)
 
-      Am    G            F         E7
+Well I [Am] guess if [G] you say [E7] so
 
-For I'll be back on my feet some day.      
+I'll [Am] have to pack my [G] things and [F] go. [E7] 
 
-      Am           G              F      E7
+(That's right)
 
-(Don't care if you do 'cause it's understood
+## Chorus
 
-          Am        G        F            E7
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back
 
-you ain't got no money you just ain't no good.)
+no [Am] more, no [G] more, no [F] more, no [E7] more.
 
-         Am       G      F    E7
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more.
 
-Well, I guess if you say so
+(What you say?)
 
-     Am             G          F           E7
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back
 
-I'd have to pack my things and go. (That's right)
+no [Am] more, no [G] more, no [F] more, no [E7] more.
 
- 
-
-[Chorus]
-
-        Am   G       F               E7   Am       G        F        E7
-
-Hit the road Jack and don't you come back no more, no more, no more, no more.
-
-        Am   G       F               E7      Am  G F E7
-
-Hit the road Jack and don't you come back no more. (What you say?)
-
-        Am   G       F               E7   Am       G        F        E7
-
-Hit the road Jack and don't you come back no more, no more, no more, no more.
-
-        Am   G       F               E7      Am    G
-
-Hit the road Jack and don't you come back no more.   (Well !)
-
- 
-
-[Outro]
-
-                                F        E7
-
-                               Don't you come back no more.
-
-Am            G                 F        E7
-
-(aah! what you say)            Don't you come back no more.
-
-Am            G                 F        E7
-
-(I didn't understand you)      Don't you come back no more.
-
-Am            G                 F        E7
-
-(You can't mean that)          Don't you come back no more.
-
-Am            G                 F        E7
-
-(Oh, now baby, please)         Don't you come back no more.
-
-Am            G                 F        E7
-
-(What you tryin' to do to me?) Don't you come back no more.
-
-Am            G                 F        E7
-
-(Oh, don't treat me like that) Don't you come back no more.
-
-
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more.
 
 
 
