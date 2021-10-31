@@ -11,7 +11,7 @@ I [Am7] took a wrong turn and I just [C] kept on going
 
 ## Chorus
 
-[G] Everybody's got a [Em7] hungry heart
+Every- [G] body's got a [Em7] hungry heart
 
 [Am7] Everybody's got a [C] hungry heart
 
@@ -21,37 +21,44 @@ Every- [Am7] body's got a huh-uh- [C] un-gry heart
 
 ## Verse 2
 
-I met her in a Kingstown bar
+I met her [G] down in a [Em7] Kingstown bar
 
-We fell in love I knew it had to end
+We fell in [Am7] love I knew it [C] had to end
 
-We took what we had and we ripped it apart
+We [G] took what we had and we [Em7] ripped it apart
 
-Now here I am down in Kingstown again
+Now here I [Am7] am down in Kings- [C] town again
 
-Everybody's got a hungry heart
+## Chorus
 
-Everybody's got a hungry heart
+Where every- [G] body's got a [Em7] hungry heart
 
-Lay down your money and you play your part
+[Am7] Everybody's got a [C] hungry heart
 
-Everybody's got a huh-uh-un-gry heart
+[G] Lay down your money and you [Em7] play your part
 
-
-
-(rest of song continues just like the verses before it)
+Every- [Am7] body's got a huh-uh- [C] un-gry heart
 
 
-[Verse 3]
+## Verse 3
 
-Everybody needs a place to rest
-Everybody wants to have a home
-Don't make no difference what nobody says
-Ain't nobody like to be alone
+Every- [G] body needs a [Em7] place to rest
 
-Everybody's got a hungry heart...
+Every- [Am7] body wants to [C] have a home
 
+Don't make no [G] difference what [Em7] nobody says
 
+Ain't no- [Am7] body like to [C] be alone
+
+## Chorus
+
+Every- [G] body's got a [Em7] hungry heart
+
+[Am7] Everybody's got a [C] hungry heart
+
+[G] Lay down your money and you [Em7] play your part
+
+Every- [Am7] body's got a huh-uh- [C] un-gry heart
 
 
 
