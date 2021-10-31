@@ -7,7 +7,7 @@
 - https://www.all-guitar-chords.com/
 - http://chordfind.com/
 
-## Song
+## Intro
 ```
 Intro is
 A9 (002200) FP 4324-2f3-2f1-2
