@@ -82,6 +82,7 @@ I want I want I want I want to break free....
 [Bm]: https://www.chordbank.com/chords/b-minor/  "B minor"
 [C]: https://www.chordbank.com/chords/c-major/  "C major"
 [C6]: https://www.chordbank.com/chords/c-major/  "C major"
+[C#m]: https://www.chordbank.com/chords/c-sharp-minor/  "C# minor"
 [D]: https://www.chordbank.com/chords/d-major/  "D major"
 [Dm]: https://www.chordbank.com/chords/d-minor/  "D minor"
 [E]: https://www.chordbank.com/chords/e-major/  "E major"
@@ -91,4 +92,5 @@ I want I want I want I want to break free....
 [F]: https://www.chordbank.com/chords/f-major/  "F major"
 [F#]: https://www.chordbank.com/chords/f-sharp-major/  "F# major"
 [F#m]: https://www.chordbank.com/chords/f-sharp-minor/  "F# minor"
+[F#sus4]: https://www.chordbank.com/chords/f-sharp-sus-4/  "F# sus4"
 [G]: https://www.chordbank.com/chords/g-major/  "G major"
