@@ -39,7 +39,6 @@ Where every- [G] body's got a [Em7] hungry heart
 
 Every- [Am7] body's got a huh-uh- [C] un-gry heart
 
-
 ## Verse 3
 
 Every- [G] body needs a [Em7] place to rest
