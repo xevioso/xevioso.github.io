@@ -78,6 +78,7 @@ I want I want I want I want to break free....
 
 [A]: https://www.chordbank.com/chords/a-major/  "A major"
 [Am]: https://www.chordbank.com/chords/a-minor/  "A minor"
+[B]: https://www.chordbank.com/chords/b-major/  "B major"
 [Bm]: https://www.chordbank.com/chords/b-minor/  "B minor"
 [C]: https://www.chordbank.com/chords/c-major/  "C major"
 [C6]: https://www.chordbank.com/chords/c-major/  "C major"
