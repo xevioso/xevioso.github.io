@@ -42,9 +42,7 @@ Swing [A] low sweet chariot come down easy, taxi to the terminal [D] zone.
 
 Los [A] Angeles give me Norfolk Virginia, tidewater four ten o [D] nine.
 
-Tell the [E] folks back home this is the promised land callin',
-
-and the [A] poor boy's on the line.
+Tell the [E] folks back home this is the promised land callin', and the [A] poor boy's on the line.
 
 
 
