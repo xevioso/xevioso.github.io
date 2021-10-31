@@ -60,7 +60,7 @@ I can't get used to living without living without
 Living without you by my [A] side 
 
 I don't want to live a- [E] lone hey 
-    G     F		         C
+
 God [B] knows [A] got to make it on my [E] own 
                   
 So baby can't you see 
