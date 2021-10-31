@@ -20,9 +20,7 @@ And I was [E] on that midnight flyer out of Birmingham, smokin' into New Or- [A]
 
 [A]  Somebody helped me get out of Louisiana, just to help me get to Houston [D] Town.
 
-There are [E] people there who care a little about me,
-
-and they won't let the poor boy [A] down.
+There are [E] people there who care a little about me, and they won't let the poor boy [A] down.
 
 ## Verse 3
 
