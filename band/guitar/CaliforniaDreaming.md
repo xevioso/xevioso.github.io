@@ -82,7 +82,9 @@ play this while the flute plays:
 
 then (still the flute playing)
 [Am]  -  [G]  -  [E7]  -  [Am]  -  [F]   -     [E7sus4]
+
 [Am]  - [G]  -  [Am]  -  [G]  -   [E7sus4]  - [E7]
+
 [Am]  - [G]  -  [F]   -  [G]  -   [E7sus4]
 
 [A]: https://www.chordbank.com/chords/a-major/  "A major"
