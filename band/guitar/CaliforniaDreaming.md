@@ -1,7 +1,9 @@
 
+# California Dreaming
+
 
 # Finger-picking tutorial
-- https://www.youtube.com/watch?v=Mh6jWBsbn-E
+- [https://www.youtube.com/watch?v=Mh6jWBsbn-E](https://www.youtube.com/watch?v=Mh6jWBsbn-E)
 - https://www.all-guitar-chords.com/
 - http://chordfind.com/
 
