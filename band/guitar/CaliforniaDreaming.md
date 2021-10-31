@@ -81,6 +81,7 @@ play this while the flute plays:
     |E-0-0-0-0-0-0---0--0--0--0--0--0-----|
 
 then (still the flute playing)
+
 [Am]  -  [G]  -  [E7]  -  [Am]  -  [F]   -     [E7sus4]
 
 [Am]  - [G]  -  [Am]  -  [G]  -   [E7sus4]  - [E7]
