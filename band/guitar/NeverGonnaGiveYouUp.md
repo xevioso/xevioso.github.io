@@ -70,5 +70,6 @@ Never gonna [G] tell a [A] lie and [F#] hurt you [Bm]
 [Esus4]: https://www.chordbank.com/chords/e-major/  "Esus4"
 [E7sus4]: https://www.chordbank.com/chords/e-major/  "E7sus4"
 [F]: https://www.chordbank.com/chords/f-major/  "F major"
+[F#]: https://www.chordbank.com/chords/f-sharp-major/  "F# major"
 [F#m]: https://www.chordbank.com/chords/f-sharp-minor/  "F# minor"
 [G]: https://www.chordbank.com/chords/g-major/  "G major"
