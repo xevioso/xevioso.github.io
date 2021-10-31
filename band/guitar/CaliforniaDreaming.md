@@ -20,7 +20,7 @@ All the leaves are [Am] brown  [G]  [F]
 
 and the [G] sky is [Esus4] gray  [E] 
 
-I've been for a [F] walk  [C]  [Am]
+[F] I've been [C] for a [Am] walk
 
 on a [F] winter's [Esus4] day  [E]
 
@@ -56,7 +56,7 @@ All the leaves are [Am] brown  [G]  [F]
 
 and the [G] sky is [Esus4] gray  [E]  [F] 
 
-I've been for a [F] walk  [C]  [Am]
+[F] I've been [C] for a [Am] walk
 
 on a [F] winter's [Esus4] day  [E]
 
