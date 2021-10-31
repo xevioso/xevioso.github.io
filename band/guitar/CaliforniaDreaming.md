@@ -36,7 +36,7 @@ on such a [Am] winter's [Esus4] day  [E]
 
 Stopped in to a [Am] church  [G]  [F]
 
-I passed a [G] long the [Esus4] way  [E]                                
+I passed a- [G] long the [Esus4] way  [E]                                
 
 Well I [F] got down [C] on my [Am] knees
 
