@@ -1,1 +1,1 @@
-# [Guitar](guitar/)
+# [Guitar](guitar/index.md)
