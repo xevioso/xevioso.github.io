@@ -1,6 +1,6 @@
 # Proud Mary
 
-- https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/proud-mary-tabs-53276
+- [Detailed tab](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/proud-mary-tabs-53276)
 
 ## Verse 1
 
