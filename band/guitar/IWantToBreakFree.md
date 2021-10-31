@@ -32,6 +32,8 @@ God [B] knows [A] God knows I've fallen in [E] love
 
 [A]  [E]  [A]  [E]
 
+## Chorus
+
 It's [B] strange but it's [A] true 
 
 I [B] can't get over the way you love me like you do 
@@ -47,21 +49,23 @@ When I [F#sus4] walk out that [F#] door
 [A] Oh how I [B] want to break [E] free 
 
 
-( Synth Solo ) Chords : C  F  C  G  F  C  G  F  C
-                    C
-But life still goes on
+( Synth Solo ) Chords : [E]  [A]  [E]  [B]  [A]  [E]  [B]  [A]  [E]
+
+## Verse 3
+
+But life still goes [E] on
  
 I can't get used to living without living without 
-                         F
-Living without you by my side 
-                      C
-I don't want to live alone hey 
+
+Living without you by my [A] side 
+
+I don't want to live a- [E] lone hey 
     G     F		         C
-God knows   got to make it on my own 
+God [B] knows [A] got to make it on my [E] own 
                   
 So baby can't you see 
-F                 C
-I've got to break free 
+
+[A] I've got to break [E] free 
 
 I've got to break free 
 
