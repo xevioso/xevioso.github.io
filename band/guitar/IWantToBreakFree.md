@@ -16,7 +16,7 @@ You're so self satisfied I don't [A] need you
 
 I've got to break [E] free 
 
-God [B] knows God knows I [A] want to break [E] free 
+God [B] knows [A] God knows I want to break [E] free 
 
 ## Verse 2
 
