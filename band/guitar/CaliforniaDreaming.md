@@ -1,4 +1,4 @@
-[Guitar](index.md)
+[Guitar Tabs](index.md)
 
 # California Dreaming
 
