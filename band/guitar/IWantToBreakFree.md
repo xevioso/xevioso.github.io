@@ -36,7 +36,7 @@ God [B] knows [A] God knows I've fallen in [E] love
 
 It's [B] strange but it's [A] true 
 
-I [B] can't get over the way you love me like you do 
+I [B] can't get over the way you [A] love me like you do 
 
 But I [C#m] have to be sure 
 
