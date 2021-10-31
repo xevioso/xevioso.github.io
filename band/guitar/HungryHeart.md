@@ -1,6 +1,7 @@
 # Hungry Heart
 
 ## Verse 1
+
 [G] Got a wife and kids in [Em7] Baltimore Jack
 
 I went [Am7] out for a ride and I [C] never went back
