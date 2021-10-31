@@ -22,7 +22,7 @@ And I was [E] on that midnight flyer out of Birmingham, smokin' into New Or- [A]
 
 There are [E] people there who care a little about me,
 
-and they won't let the poor boy [A] down. Take it!
+and they won't let the poor boy [A] down.
 
 ## Verse 3
 
