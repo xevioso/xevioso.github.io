@@ -30,7 +30,7 @@ I've fallen in [E] love yeah
 
 God [B] knows [A] God knows I've fallen in [E] love
 
-[A]  [E]  [A]  [E]
+[A] - [E] - [A] - [E]
 
 ## Chorus
 
