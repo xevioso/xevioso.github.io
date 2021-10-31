@@ -2,12 +2,12 @@
 # California Dreaming
 
 
-# Finger-picking tutorial
+## Finger-picking tutorial
 - [https://www.youtube.com/watch?v=Mh6jWBsbn-E](https://www.youtube.com/watch?v=Mh6jWBsbn-E)
 - https://www.all-guitar-chords.com/
 - http://chordfind.com/
 
-# Song
+## Song
 ```
 Intro is
 A9 (002200) FP 4324-2f3-2f1-2
