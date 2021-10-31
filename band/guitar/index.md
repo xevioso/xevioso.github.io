@@ -2,8 +2,12 @@
 
 [Hit The Road Jack](HitTheRoadJack.md)
 
+[Hungry Heart](HungryHeart.md)
+
 [I Want To Break Free](IWantToBreakFree.md)
 
 [Never Gonna Give You Up](NeverGonnaGiveYouUp.md)
+
+[Promised Land](PromisedLand.md)
 
 [Proud Mary](ProudMary.md)
