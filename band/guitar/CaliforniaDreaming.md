@@ -30,7 +30,7 @@ if I [G] was in L. [Esus4] A.  [E]  [E7]
 
 California [Am] dreamin'  [G]  -  [F]
 
-on such a [Am] winter's [Esus4] day  [E]
+on such a [G] winter's [Esus4] day  [E]
 
 ## Verse 2
 
@@ -48,7 +48,7 @@ He knows I'm [G] gonna [Esus4] stay  [E]  [E7]
 
 California [Am] dreamin' [G]   [F]
 
-on such a [Am] winter's [Esus4] day  [E]                         
+on such a [G] winter's [Esus4] day  [E]                         
 
 
 ## Verse 3
@@ -66,7 +66,7 @@ I could [G] leave to- [Esus4] day.  [E] -  [E7]
 
 California [Am] dreamin'  [G]  - [F]
 
-on such a [Am] winter's [Esus4] day  [E]
+on such a [G] winter's [Esus4] day  [E]
 
                      
 ## Instrumental                     
