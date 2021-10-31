@@ -72,3 +72,22 @@ I've got to break free
 I want to break free yeah 
 
 I want I want I want I want to break free....
+
+
+
+
+[A]: https://www.chordbank.com/chords/a-major/  "A major"
+[Am]: https://www.chordbank.com/chords/a-minor/  "A minor"
+[Bm]: https://www.chordbank.com/chords/b-minor/  "B minor"
+[C]: https://www.chordbank.com/chords/c-major/  "C major"
+[C6]: https://www.chordbank.com/chords/c-major/  "C major"
+[D]: https://www.chordbank.com/chords/d-major/  "D major"
+[Dm]: https://www.chordbank.com/chords/d-minor/  "D minor"
+[E]: https://www.chordbank.com/chords/e-major/  "E major"
+[E7]: https://www.chordbank.com/chords/e-major/  "E7"
+[Esus4]: https://www.chordbank.com/chords/e-major/  "Esus4"
+[E7sus4]: https://www.chordbank.com/chords/e-major/  "E7sus4"
+[F]: https://www.chordbank.com/chords/f-major/  "F major"
+[F#]: https://www.chordbank.com/chords/f-sharp-major/  "F# major"
+[F#m]: https://www.chordbank.com/chords/f-sharp-minor/  "F# minor"
+[G]: https://www.chordbank.com/chords/g-major/  "G major"
