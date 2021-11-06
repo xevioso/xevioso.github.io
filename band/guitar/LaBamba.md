@@ -139,7 +139,7 @@ Well [E7] shake it up [A] baby ([D] Shake it up [E] baby)
 
 Come on and [E7] work it on [A] out. ([D] Work it on [E] out)
 
-   E  F  F#  G  G#  A   A9
+   E  E7  E5 A9
 
 
 [E7]: #E7
