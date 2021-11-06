@@ -44,11 +44,11 @@ Soy [D] capi- [E] tan [E7]
 
 ## Chorus
 
-[A] Bam- [D] ba [E] - [E]
+[A] Bam- [D] ba [E] bamba [E]
 
-[A] Bam- [D] ba [E] - [E]
+[A] Bam- [D] ba [E] bamba [E]
 
-[A] Bam- [D] ba [E] - [E]
+[A] Bam- [D] ba [E] bamba [E]
 
 ## Verse 3
 
@@ -80,27 +80,66 @@ Just like I [E7] knew you [A] would. (Like I [D] knew you [E] would, ooh!)
 
 And let me [E] know that you're [A] mine. (Let me [D] know you're [E] mine, ooh!)
 
-
-[E7] Twist and [A] shout [D] - [E]
-
-
-
 ## Solo 4 times
 
-e|----------------------------|
+```
+e|----------------------------- |
+B| -------------3--2----2------ |
+G| ----------4--4--2----2--4--2 |
+D| --4----4--5-------------5--4 |
+A| --5----5-------------------- |
+E| ---------------------------- |
+```
 
-B|-------------3--2----2------|
+## Verse 6
 
-G|----------4--4--2----2--4--2|x4
+[E7] Para bailar la [A] bamba, [D]
 
-D|--4----4--5-------------5--4|
+[E] Para bai- [E7] lar la [A] bamba,
 
-A|--5----5--------------------|
+Se [D] nece- [E] sita una [E7] poca de [A] gracia,
 
-E|----------------------------|
+[D] - [E] una [E7] poca de [A] gracia
 
+Para [D] mi para [E] ti y ar- [E7] iba y ar- [A] iba,
 
+[D] - [E] - ay ari- [E7] ba ari- [A] ba
 
+Por [D] ti se- [E] ré
+
+Por [E7] ti se- [A] ré
+
+Por [D] ti se- [E] ré
+
+## Verse 7
+
+[E7] Yo no soy marin- [A] ero,
+
+[D] - [E] Yo no [E7] soy marin- [A] ero
+
+Soy [D] capi- [E] tan, soy [E7] capi- [A] tan
+
+Soy [D] capi- [E] tan [E7]
+
+## Chorus
+
+[A] Bam- [D] ba [E] bamba [E7] Twist and
+
+[A] Shout/Bam- [D] ba [E] bamba [E7] Twist and 
+
+[A] Shout/Bam- [D] ba [E] bamba [E]
+
+## Verse 8
+
+Well [E7] shake it up [A] baby ([D] Shake it up [E] baby)
+
+[E7] Twist and [A] shout ([D] Twist and [E] shout)
+
+[E7] Come on, come on, come on, come on, [A] baby now, ([D] Come on [E] baby)
+
+Come on and [E7] work it on [A] out. ([D] Work it on [E] out)
+
+   E  F  F#  G  G#  A   A9
 
 
 [E7]: #E7
