@@ -20,13 +20,17 @@
 
 Se [D] nece- [E] sita una [E7] poca de [A] gracia,
 
-[D] - [E] una [E7] poca de [A] gracia para [D] mi para
+[D] - [E] una [E7] poca de [A] gracia
 
-[E] ti y ar- [E7] iba y ar- [A] iba,
+Para [D] mi para [E] ti y ar- [E7] iba y ar- [A] iba,
 
-[D] - [E] - ay ari- [E7] ba ari- [A] ba por [D] ti se- [E] ré
+[D] - [E] - ay ari- [E7] ba ari- [A] ba
 
-por [E7] ti se- [A] ré, por [D] ti se- [E] ré
+Por [D] ti se- [E] ré
+
+Por [E7] ti se- [A] ré
+
+Por [D] ti se- [E] ré
 
 ## Verse 2
 
@@ -34,27 +38,17 @@ por [E7] ti se- [A] ré, por [D] ti se- [E] ré
 
 [D] - [E] Yo no [E7] soy marin- [A] ero
 
-[D] - [E] 
+Soy [D] capi- [E] tan, soy [E7] capi- [A] tan
 
-    F   G            C        F   G
+Soy [D] capi- [E] tan [E7]
 
-soy capitan, soy capitan, soy capitan
+## Chorus
 
-C  F   G
+[A] Bam- [D] ba [E] - [E]
 
-bamba, bamba
+[A] Bam- [D] ba [E] - [E]
 
-C  F   G
-
-bamba, bamba
-
-C  F   G
-
-bamba, bamba
-
-   C F G
-
-bamba
+[A] Bam- [D] ba [E] - [E]
 
 
 
