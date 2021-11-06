@@ -52,9 +52,9 @@ Soy [D] capi- [E] tan [E7]
 
 ## Verse 3
 
-Well [E7] shake it [A] baby [D] (Shake it up [E] baby)
+Well [E7] shake it up [A] baby ([D] Shake it up [E] baby)
 
-[E7] Shake it [A] baby now (Shake it up [E] baby)
+[E7] Twist and [A] shout ([D] Twist and [E] shout)
 
 [E7] Come on, come on, come on, come on, [A] baby now, ([D] Come on [E] baby)
 
@@ -70,44 +70,34 @@ You know you [E7] got me [A] goin' now, ([D] Got me [E] goin')
 
 Just like I [E7] knew you [A] would. (Like I [D] knew you [E] would, ooh!)
 
+## Verse 5
 
-Well shake it up baby now, (shake it up baby)
+[E7] You know you twist it little [A] girl, ([D] Twist it little [E] girl)
 
-A7          D       G         A
+[E7] You know you twist so [A] fine. ([D] Twist so [E] fine)
 
-Twist and shout. (Twist and shout)
+[E7] Come on and twist a little [A] closer now, ([D] Twist a little [E] closer)
 
-                  A7                 D          G       A
-
-Come on, come on, come on, come on, baby now, (come on baby)
-
-                        D     G          A
-
-Come on and work it on out. (Work it on out, ooh!)  
-
- 
-
-[Verse 4]
-
-                              D       G           A
-
-You know you twist it little girl, (twist little girl)
-
-             A7          D       G       A
-
-You know you twist so fine. (Twist so fine)
-
-            A7               D            G             A
-
-Come on and twist a little closer now, (twist a little closer)
-
-                             D             G           A
-
-And let me know that you're mine. (Let me know you're mine, ooh!)
+And let me [E] know that you're [A] mine. (Let me [D] know you're [E] mine, ooh!)
 
 
 [E7] Twist and [A] shout [D] - [E]
 
+
+
+## Solo 4 times
+
+e|----------------------------|
+
+B|-------------3--2----2------|
+
+G|----------4--4--2----2--4--2|x4
+
+D|--4----4--5-------------5--4|
+
+A|--5----5--------------------|
+
+E|----------------------------|
 
 
 
