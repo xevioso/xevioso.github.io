@@ -10,30 +10,25 @@
 | [E7] | <a name="E7">0-2-0-1-0-0</a> |
 
 
+## Verse 1
 
 [E7] Para bailar la [A] bamba, [D]
 
-[E7] Para bailar la [A] bamba,
+[E] Para bai- [E7] lar la [A] bamba,
 
-Se [D] nece- [E7] sita un poca de gracia,
+Se [D] nece- [E] sita una [E7] poca de [A] gracia,
 
- 
+[D] - [E] una [E7] poca de [A] gracia para [D] mi para
 
-   F   G               C     F  G              C      F
+[E] ti y ar- [E7] iba y ar- [A] iba,
 
-     una poca de gracia para mi para
+[D] - [E] - ay ari- [E7] ba ari- [A] ba por [D] ti se- [E] ré
 
-G               C  F  G          C         F     G
-
-ti y ariba y ariba,     ay ariba ariba por ti se re
-
-          C       F     G
-
-por ti se re, por ti se re
+por [E7] ti se- [A] ré, por [D] ti se- [E] ré
 
           C       F  G               C
 
-yo no soy marinero,    yo no soy marinero
+[E7] yo no soy marinero,    yo no soy marinero
 
  
 
