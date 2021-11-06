@@ -6,6 +6,8 @@
 
 [I Want To Break Free](IWantToBreakFree.md)
 
+[La Bamba](LaBamba.md)
+
 [Never Gonna Give You Up](NeverGonnaGiveYouUp.md)
 
 [Promised Land](PromisedLand.md)

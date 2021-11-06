@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # La Bamba (Twist And Shout)
 
 ## Chords
