@@ -28,11 +28,13 @@ Se [D] nece- [E] sita una [E7] poca de [A] gracia,
 
 por [E7] ti se- [A] ré, por [D] ti se- [E] ré
 
-          C       F  G               C
+## Verse 2
 
-[E7] yo no soy marinero,    yo no soy marinero
+[E7] Yo no soy marin- [A] ero,
 
- 
+[D] - [E] Yo no [E7] soy marin- [A] ero
+
+[D] - [E] 
 
     F   G            C        F   G
 
