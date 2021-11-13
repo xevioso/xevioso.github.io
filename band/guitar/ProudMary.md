@@ -4,6 +4,9 @@
 
 - [Detailed tab](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/proud-mary-tabs-53276)
 
+
+[C] [A] [C] [A] [C] [A] [F] [F6] [F]
+
 ## Verse 1
 
 [D] Left a good job in the city,
