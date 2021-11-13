@@ -40,6 +40,8 @@ Till I hitched a ride on a river boat queen.
 
 [D] Roll - in', rollin', rollin' on the river
 
+x-x-7-7-7-7  x-x-9-7-8-7
+
 ## Verse 3
 
 [D] If you come down to the river,
