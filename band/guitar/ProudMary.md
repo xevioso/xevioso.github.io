@@ -1,5 +1,7 @@
 [Guitar Tabs](index.md)
 
+[Ike & Tina](https://youtu.be/2XSUwHNrusU)
+
 # Proud Mary
 
 - [Detailed tab](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/proud-mary-tabs-53276)
