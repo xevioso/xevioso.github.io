@@ -1,5 +1,7 @@
 [Guitar Tabs](index.md)
 
+- The pattern for the rhythm guitar is as "I'm gonna break free, yes I am". 
+
 # I Want To Break Free
 
 [This tab](https://www.guitartabs.cc/tabs/q/queen/i_want_to_break_free_crd_ver_2.html)
