@@ -2,6 +2,18 @@
 
 # California Dreaming
 
+## Chords
+
+| Chord | Pattern |
+| --- | --- |
+| [Am] | <a name="Am">5-7-7-5-5-5</a> |
+| [Am/E] | <a name="Am/E">0-0-2-2-1-0</a> |
+| [G] | <a name="G">3-5-5-4-3-3</a> |
+| [F] | <a name="F">1-3-3-2-1-1</a> |
+| [Esus4] | <a name="Esus4">0-2-0-2-0-0</a> |
+| [E] | <a name="E">0-2-2-1-0-0</a> |
+| [C] | <a name="C">3-3-2-0-1-0</a> |
+
 ## Intro
 ```
 A9 (002200) FP 4324-2f3-2f1-2
@@ -14,7 +26,7 @@ All the leaves are [Am] brown  [G]  - [F]
 
 and the [G] sky is [Esus4] gray  [E] 
 
-[F] I've been [C] for a [Am] walk
+[F] I've been [C] for a [Am/E] walk
 
 on a [F] winter's [Esus4] day  [E]
 
