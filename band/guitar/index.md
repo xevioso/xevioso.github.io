@@ -1,5 +1,7 @@
 [California Dreaming](CaliforniaDreaming.md)
 
+[Dancing Queen](DancingQueen.md)
+
 [Hit The Road Jack](HitTheRoadJack.md)
 
 [Hungry Heart](HungryHeart.md)
