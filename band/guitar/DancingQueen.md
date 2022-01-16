@@ -1,7 +1,7 @@
 # Dancing Queen
 
 ## Rhythm
-- Bagit the bung the boom boom adiggitdown.
+- Baggit the bang the boom boom adiggitdown.
 
 ## Chords
 
