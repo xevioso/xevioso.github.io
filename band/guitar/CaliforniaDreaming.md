@@ -54,7 +54,7 @@ Stopped in to a [Am] church  [G]  -  [F]
 
 I passed a- [G] long the [Esus4] way  [E]                                
 
-Well I [F] got down [C] on my [Am] knees
+Well I [F] got down [C] on my [Am/E] knees
 
 and I pre- [F] tend to [Esus4]  pray  [E]
 
@@ -72,7 +72,7 @@ All the leaves are [Am] brown  [G]  -  [F]
 
 and the [G] sky is [Esus4] gray  [E]  
 
-[F] I've been [C] for a [Am] walk
+[F] I've been [C] for a [Am/E] walk
 
 on a [F] winter's [Esus4] day  [E]
 
@@ -109,16 +109,4 @@ then (still the flute playing)
 - [https://www.youtube.com/watch?v=Mh6jWBsbn-E](https://www.youtube.com/watch?v=Mh6jWBsbn-E)
 - https://www.all-guitar-chords.com/
 - http://chordfind.com/
-
-
-[A]: https://www.chordbank.com/chords/a-major/  "A major"
-[Am]: https://www.chordbank.com/chords/a-minor/  "A minor"
-[C]: https://www.chordbank.com/chords/c-major/  "C major"
-[D]: https://www.chordbank.com/chords/d-major/  "D major"
-[E]: https://www.chordbank.com/chords/e-major/  "E major"
-[E7]: https://www.chordbank.com/chords/e-major/  "E7"
-[Esus4]: https://www.chordbank.com/chords/e-major/  "Esus4"
-[E7sus4]: https://www.chordbank.com/chords/e-major/  "E7sus4"
-[F]: https://www.chordbank.com/chords/f-major/  "F major"
-[G]: https://www.chordbank.com/chords/g-major/  "G major"
 
