@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Come Bowling Caroline
 
 | Chord | Pattern |

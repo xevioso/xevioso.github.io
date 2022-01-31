@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Songs About Rain
 
 | Chord | Pattern |
