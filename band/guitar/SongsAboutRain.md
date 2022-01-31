@@ -80,21 +80,19 @@ Oh [Am] it would be easy to [D] blame all these songs about [G] rain
 
 ## Verse 3
 
-Well, I thought I'd get over you but I 
+Well, I [G] thought I'd [G/F#] get over
 
-guess maybe I'm not,
+[Em] you but [C9] maybe I'm [G] not,
 
-Cause when I let you go looks like 
+Cause [G] when I [G/F#] let you
 
-lonely is all that I got,
+[Em] go looks like [C9] lonely is all that I [G] got,
 
-Guess I'll never know what might have 
+[D] Guess I'll [D#dim] never know [Em] what might have [C9] been,
 
-been,
+[D] Sure ain't [D#dim] helpin' this [Em] mood that I'm [C9] in,
 
-Sure ain't helpin' this mood that I'm in,
-
-If they're gonna keep playin' all these songs like,
+If they're [G] gonna keep [G/F#] playin' all these [Am] songs like, [D]
 
 ## Chorus
 
