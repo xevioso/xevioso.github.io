@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # I Saw Her Standing There (E)
 
 ## Chords

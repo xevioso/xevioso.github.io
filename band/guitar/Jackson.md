@@ -1,9 +1,9 @@
+[Guitar Tabs](index.md)
+
 # Jackson
-## Guitar
 
 ## Rhythm Guitar Pattern
 - 4 strokes down-up-down-up to the rhythm of "Chew toBACCa".
-
 
 ### Chords
 
