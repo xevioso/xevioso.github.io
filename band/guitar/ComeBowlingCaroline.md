@@ -42,7 +42,7 @@ Will come bowling with [A] me.
 
 And with a [E7] girl like you [B7]
 
-I'm an open [A] frame.
+I'm an open [A] frame. [G#m7]
 
 ## Verse 1
 
@@ -74,13 +74,13 @@ Cause [E] I can't wait until it's true,
 
 That a [E7] boy like me [B7]
 
-Can come bowling with [A] you.
+Can come bowling with [A] you. [G#m7]
 
 ## Verse 3
 
 [C#m] Danny's digging deep, he's gonna bare his soul,
 
-[D] Tell us all of life's just a [C#7] ten-pin bowl.
+[D] Tell us all life's just a [C#7] ten-pin bowl.
 
 [C#m] Girl, I know your lucky lane is [D] number nine,
 
@@ -96,7 +96,7 @@ But [E] all our friends are saying what the hell, [E7]
 
 Caro- [B7] line
 
-Should be here as [A] well.
+Should be here as [A] well. [G#m7]
 
 ## Verse 4
 
@@ -110,7 +110,7 @@ But [C#m] Caroline, you know that my [D] love stands tall,
 
 ## Chorus 5
 
-[A] So come bowling Caroline,
+[A] Come bowling Caroline,
 
 [A] Come out tonight with these [D] friends of mine,
 
