@@ -98,7 +98,7 @@ Well, I [G] thought I'd [G/F#] get over
 
 Cause it [G] seems like [G/F#] when I let you
 
-[Em] go looks like [C9] lonely is all that I [G] got,
+[Em] go lonely is [C9] all that I [G] got,
 
 [G] - [G/F#] - [Em] - [C9]
 
