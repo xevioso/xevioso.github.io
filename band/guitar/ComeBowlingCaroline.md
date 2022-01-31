@@ -88,7 +88,7 @@ I [B7] went ahead and booked it for my [E7] Caroline.
 
 ## Chorus 4
 
-So come bowling [A] Caroline,
+Come bowling [A] Caroline,
 
 [A] It may be infantile and [D] asinine,
 
