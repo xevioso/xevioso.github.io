@@ -75,12 +75,11 @@ Oh, since I [C] saw her [G7] standing [C7] there
 
 ## Instrumental
 
+| Ж | Ж | Ж | Ж |
+| --- | --- | --- | --- |
 | [C7] | % | % | % |
-
 | [C7] | % | [G7] | % |
-
 | [C7] | % | [F] | [Fm] |
-
 | [C7] | [G7] | [C7] | % |
 
 ## Bridge
