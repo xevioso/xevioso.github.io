@@ -94,9 +94,13 @@ Well, I [G] thought I'd [G/F#] get over
 
 [Em] you but [C9] maybe I'm [G] not,
 
-Cause [G] when I [G/F#] let you
+[G] - [G/F#] - [Em] - [C9]
+
+Cause it [G] seems like [G/F#] when I let you
 
 [Em] go looks like [C9] lonely is all that I [G] got,
+
+[G] - [G/F#] - [Em] - [C9]
 
 [D] Guess I'll [D#dim] never know [Em] what might have [C9] been,
 
