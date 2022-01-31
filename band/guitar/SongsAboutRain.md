@@ -29,21 +29,17 @@
 
 ## Verse 1
 
-Well, this [G] town has closed [G/F#] down way too 
+Well, this [G] town has shut [G/F#] down way too 
 
 [Em] early and there's [C9] nothing to [G] do,
-
-[G] - [G/F#] - [Em] - [C9]
 
 So I'm [G] driving a- [G/F#] round in
 
 [Em] circles and I'm [C9] thinkin' 'bout [G] you,
 
-[G] - [G/F#] - [Em] - [C9]
+[D] I heard you [D#dim] got yourself a [Em] new last [C9] name, 
 
-[D] Today I [D#dim] heard you got a [Em] new last [C9] name, 
-
-[D] sure didn't [D#dim] know it was gonna [Em] hit me this [C9] way 
+[D] Sure didn't [D#dim] think that would [Em] hit me this [C9] way 
 
 And the [G] radio [G/F#] just keeps on
 
@@ -55,13 +51,9 @@ Now there's [G] all kinds of [G/F#] songs about
 
 [Em] babies and [C9] love that goes [G] right,
 
-[G] - [G/F#] - [Em] - [C9]
-
 But for [G] some unknown [G/F#] reason no-
 
 [Em] body wants to [C9] play them to- [G] night,
-
-[G] - [G/F#] - [Em] - [C9]
 
 [D] Hey, I hope it's [D#dim] sunny wher- [Em] ever you [C9] are,
 
