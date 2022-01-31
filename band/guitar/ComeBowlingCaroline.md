@@ -22,7 +22,7 @@
 
 ## Chorus 1
 
-[A] Come bowling Caroline,
+Come bowling [A] Caroline,
 
 [A] Come out tonight with these [D] friends of mine,
 
@@ -34,7 +34,7 @@ Will come bowling with [A] me.
 
 ## Chorus 2
 
-[A] Come bowling Caroline,
+Come bowling [A] Caroline,
 
 [A] Roll my heart down the [D] center line,
 
@@ -66,7 +66,7 @@ They [B7] only came to get away from [E7] Shirley's wife.
 
 ## Chorus 3
 
-So [A] come bowling Caroline,
+So come bowling [A] Caroline,
 
 [A] Make me stop and wonder if you're [D] gonna be mine.
 
@@ -110,7 +110,7 @@ But [C#m] Caroline, you know that my [D] love stands tall,
 
 ## Chorus 5
 
-[A] Come bowling Caroline,
+Come bowling [A] Caroline,
 
 [A] Come out tonight with these [D] friends of mine,
 
