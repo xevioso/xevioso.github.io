@@ -65,7 +65,7 @@ And it [G] sure ain't [G/F#] easing my
 
 ## Chorus
 
-[G] Rainy Night In Georgia and [Bm] Kentucky Rain,
+[G] Rainy Night In Georgia, [Bm] Kentucky Rain,
 
 [C9] Here Comes That Rainy Day [G] Feeling Again,
 
@@ -80,25 +80,25 @@ Oh [Am] it would be easy to [D] blame all these songs about [G] rain
 
 ## Verse 3
 
-Well, I thought I was over you but I 
+Well, I thought I'd get over you but I 
 
 guess maybe I'm not,
 
 Cause when I let you go looks like 
 
-lonely is all that I've got,
+lonely is all that I got,
 
-Guess I'll never know what could have 
+Guess I'll never know what might have 
 
-been, sure ain't helpin' this mood 
+been,
 
-that I'm in,
+Sure ain't helpin' this mood that I'm in,
 
-If they're gonna keep on playin' me songs like,
+If they're gonna keep playin' all these songs like,
 
 ## Chorus
 
-[G] Rainy Night In Georgia and [Bm] Kentucky Rain,
+[G] Rainy Night In Georgia, [Bm] Kentucky Rain,
 
 [C9] Here Comes That Rainy Day [G] Feeling Again,
 
