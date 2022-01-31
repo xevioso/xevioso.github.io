@@ -109,7 +109,8 @@ Oh [Am] it would be easy to [D] blame all these songs about [G] rain
 [G] - [G/F#] - [Em] - [C9]
 
 
-[Background chorus]
+## Background chorus
+
 G  Bm  C  G                             
                  All these songs about 
       G  Bm  C  Am                     
