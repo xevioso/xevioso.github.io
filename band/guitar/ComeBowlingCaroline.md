@@ -25,38 +25,60 @@
 [C#m]: #C#m
 [B7]: #B7
 
-[G]: #G
-[G/F#]: #G/F#
-[C9]: #C9
-[D#dim]: #D#dim
-[C]: #C
+## Chorus 1
 
 [A] Come bowling Caroline,
+
 [A] Come out tonight with these [D] friends of mine,
+
 Cause [E] I can't wait until they see,
+
 That a [E7] girl like you [B7]
+
 Will come bowling with [A] me.
 
+## Chorus 2
+
 [A] Come bowling Caroline,
+
 [A] Roll my heart down the [D] center line,
+
 [E] Show the world you got the perfect game,
+
 And with a [E7] girl like you [B7]
+
 I'm an open [A] frame.
 
+## Verse 1
+
 [C#m] Little Linda never throws a gutter ball.
+
 [D] Ronnie can't relax 'cause he's [C#7] here with Paul.
+
 [C#m] Holly got so high she hit the [D] ceiling fan,
+
 She'll [B7] never learn to bowl like other [E7] people can.
 
+## Verse 2
+
 [C#m] Rita and Ramón are getting wrecked again,
+
 [D] Everybody says they're a [C#7] 7-10.
+
 [C#m] Shirley and Cherie can't roll to [D] save their life,
+
 They [B7] only came to get away from [E7] Shirley's wife.
 
+## Chorus 3
+
 So [A] come bowling Caroline,
+
 [A] Make me stop and wonder if you're [D] gonna be mine.
+
 Cause [E] I can't wait until it's true,
+
 That a [E7] boy like me [B7]
+
 Can come bowling with [A] you.
 
 [C#m] Danny's digging deep, he's gonna bare his soul,
