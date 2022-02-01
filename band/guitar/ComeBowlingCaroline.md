@@ -42,7 +42,7 @@ Come bowling [A] Caroline,
 
 And with a [E7] girl like you [B7]
 
-I'm an open [A] frame. [G#m7]
+I'm an open [A] frame. [D#7]
 
 ## Verse 1
 
@@ -74,7 +74,7 @@ Cause [E] I can't wait until it's true,
 
 That a [E7] boy like me [B7]
 
-Can come bowling with [A] you. [G#m7]
+Can come bowling with [A] you. [D#7]
 
 ## Verse 3
 
@@ -96,7 +96,7 @@ But [E] all our friends are saying what the hell, [E7]
 
 Caro- [B7] line
 
-Should be here as [A] well. [G#m7]
+Should be here as [A] well. [D#7]
 
 ## Verse 4
 
