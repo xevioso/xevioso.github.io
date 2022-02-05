@@ -117,6 +117,10 @@ Taking care of you done lost its spark,
 
 Your baby needs to be a matriarch.
 
+## Verse 4
+
+**************
+
 ## Chorus 3
 
 I was real worried until I saw,
