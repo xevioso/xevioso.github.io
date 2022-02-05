@@ -10,7 +10,7 @@ Tell me, where did our mojo go?
 
 If you're losing heart right now,
 
-We gotta kick start our life somehow.
+We gotta kick start life somehow.
 
 ## Verse 1
 
