@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Body Clock
 
 I love you baby, but you seem real low,
