@@ -2,35 +2,67 @@
 
 # Body Clock
 
+## Intro
+
 I love you baby, but you seem real low,
+
 Tell me, where did our mojo go?
+
 If you're losing heart right now,
+
 We gotta kick start our life somehow.
 
+## Verse 1
+
 So let's quit our jobs, buy a surfboard each,
+
 Spend a year swimming off Bondi Beach.
+
 Sky dive together with no jumpsuit,
+
 Make love under a parachute.
+
 She said no no,
+
 She said I won't go.
+
+## Verse 2
 
 I said don't let's sit here getting stale,
+
 We could circle the world by river and rail,
+
 Swim the Nile butterfly stroke,
+
 Watch the stars through campfire smoke.
+
 She said no no,
+
 She said I won't go.
 
+## Chorus
+
 Now, what's the problem, why the mood?
+
 Baby please don't say we're screwed,
+
 Come on, come on, come on...
+
 She said Body Clock,
+
 Body Clock,
+
 Aw now, Body Clock.
 
+
+## Midtro
+
 When the Body Clock comes & says tick tock,
+
 Your baby's in a hurry and you're in shock,
+
 Do not hide, do not run,
+
 Body Clock waits for no one.
 
 Learn piano, start a band,
