@@ -40,7 +40,7 @@ She said no no,
 
 She said I won't go.
 
-## Chorus
+## Chorus 1
 
 Now, what's the problem, why the mood?
 
@@ -65,42 +65,80 @@ Do not hide, do not run,
 
 Body Clock waits for no one.
 
+## Verse 3
+
 Learn piano, start a band,
+
 Dance all night in Dixieland,
+
 Scuba on down to the Caribbean,
+
 Be everything we dreamed of being,
+
 She said no no,
+
 She said I can't go.
 
+## Verse 4
+
 Write that novel, run that run,
+
 Live life like it's your only one.
+
 Do not waste the time that flies,
+
 Go pick up that Nobel Prize.
+
 She said no no,
+
 I don't think so.
 
+## Chorus 2
+
 From the start she was the only one,
+
 She got a wild side & a sense of fun,
+
 So come on, come on, come on...
+
 And now a Body Clock,
+
 She got Body Clock,
+
 Aw now, Body Clock.
+
+## Midtro
 
 When the Body Clock comes, says ding ding,
+
 Your baby can't think about one more thing,
+
 Taking care of you done lost its spark,
+
 Your baby needs to be a matriarch.
 
+## Chorus 3
+
 I was real worried until I saw,
+
 She only wants the two of us to be one more,
+
 So come on, come on, come on...
+
 We said Body Clock,
+
 Body Clock,
+
 Aw now, Body Clock.
 
+## Midtro
+
 When the Body Clock comes, says tick tock,
+
 Your baby's in a hurry and you're in shock,
+
 Do not hide, do not run,
+
 Body Clock waits for no one.
 
 She said Body Clock,
