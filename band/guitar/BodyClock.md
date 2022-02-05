@@ -87,7 +87,7 @@ Live life like it's your only one.
 
 Do not waste the time that flies,
 
-Go pick up that Nobel Prize.
+Go collect that Nobel Prize.
 
 She said no no,
 
