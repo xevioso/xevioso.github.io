@@ -137,7 +137,7 @@ When the Body Clock comes, says tick tock,
 
 Your baby's in a hurry and you're in shock,
 
-Do not hide, do not run,
+You cannot hide, you cannot run,
 
 Body Clock waits for no one.
 
