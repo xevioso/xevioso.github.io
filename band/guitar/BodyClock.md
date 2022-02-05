@@ -117,9 +117,19 @@ Taking care of you done lost its spark,
 
 Your baby needs to be a matriarch.
 
-## Verse 4
+## Verse 5
 
-**************
+Let's quit our jobs, surrender to fate,
+
+Climb a tree and meditate.
+
+Love the world the best we can,
+
+Or do you have a better plan?
+
+She said yes yes,
+
+I'll give you one guess.
 
 ## Chorus 3
 
