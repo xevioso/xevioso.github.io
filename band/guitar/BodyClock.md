@@ -119,9 +119,9 @@ Your baby needs to be a matriarch.
 
 ## Verse 5
 
-Let's quit our jobs, surrender to fate,
+So let's quit our jobs, surrender to fate,
 
-Climb a tree and meditate.
+Go climb a tree and meditate.
 
 Love the world the best we can,
 
