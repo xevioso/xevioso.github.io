@@ -2,7 +2,7 @@
 
 # Body Clock
 
-## Intro
+## Chant 1
 
 I love you baby, but you seem real low,
 
@@ -55,7 +55,7 @@ Body Clock,
 Aw now, Body Clock.
 
 
-## Midtro
+## Chant 2
 
 When the Body Clock comes & says tick tock,
 
@@ -107,7 +107,7 @@ She got Body Clock,
 
 Aw now, Body Clock.
 
-## Midtro
+## Chant 3
 
 When the Body Clock comes, says ding ding,
 
@@ -131,7 +131,7 @@ Body Clock,
 
 Aw now, Body Clock.
 
-## Midtro
+## Chant 4
 
 When the Body Clock comes, says tick tock,
 
