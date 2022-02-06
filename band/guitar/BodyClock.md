@@ -125,7 +125,7 @@ Go climb a tree and meditate.
 
 Love the world the best we can,
 
-Or do you have a better plan?
+Or do you think you got a better plan?
 
 She said yes yes,
 
