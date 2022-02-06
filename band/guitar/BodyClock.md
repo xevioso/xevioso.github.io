@@ -42,7 +42,7 @@ She said I won't go.
 
 ## Chorus 1
 
-Now, what's the problem, why the mood?
+Why're you broody, what's the mood?
 
 Baby please don't say we're screwed,
 
