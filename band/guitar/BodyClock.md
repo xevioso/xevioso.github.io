@@ -95,7 +95,7 @@ I don't think so.
 
 ## Chorus 2
 
-From the start you were the only one,
+From the start you were my only one,
 
 You got a wild side & a sense of fun,
 
