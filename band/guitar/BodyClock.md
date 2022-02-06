@@ -95,15 +95,15 @@ I don't think so.
 
 ## Chorus 2
 
-From the start she was the only one,
+From the start you were the only one,
 
-She got a wild side & a sense of fun,
+You got a wild side & a sense of fun,
 
 So come on, come on, come on...
 
 And now a Body Clock,
 
-She got Body Clock,
+You got Body Clock,
 
 Aw now, Body Clock.
 
