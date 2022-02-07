@@ -4,6 +4,10 @@
 
 ## Chant 1
 
+A Dmaj7 E7 A
+
+A D Esus4 E A
+
 I love you baby, but you seem real low,
 
 Tell me, where did our mojo go?
