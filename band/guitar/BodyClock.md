@@ -22,9 +22,9 @@ So let's [A] quit our jobs, buy a [Amaj7] surfboard each,
 
 [Bm7] Make love under a [E7] parachute.
 
-She said no no,
+She said [A] no no, [E] - [D]
 
-She said I won't go.
+She said I [A] won't go. [D] - [B7]
 
 ## Verse 2
 
