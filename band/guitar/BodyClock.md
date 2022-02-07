@@ -42,13 +42,13 @@ She said I won't go.
 
 ## Chorus 1
 
-Why're you broody, what's the mood?
+[A] Why're you broody, [Bm7] what's the mood?
 
-Baby please don't say we're screwed,
+[F#m7] Baby please don't [A] say we're screwed,
 
-Come on, come on, come on...
+Come [D] on, come [D7] on, come [E] on...
 
-She said Body Clock,
+She said [A] Body Clock,
 
 Body Clock,
 
