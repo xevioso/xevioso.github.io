@@ -14,13 +14,13 @@ We gotta kick start life somehow.
 
 ## Verse 1
 
-So let's quit our jobs, buy a surfboard each,
+So let's [A] quit our jobs, buy a [Amaj7] surfboard each,
 
-Spend a year swimming off Bondi Beach.
+[A7] Spend a year swimming off [D] Bondi Beach.
 
-Sky dive together with no jumpsuit,
+[D] Sky dive together with [C#m7] no jumpsuit,
 
-Make love under a parachute.
+[Bm7] Make love under a [E7] parachute.
 
 She said no no,
 
