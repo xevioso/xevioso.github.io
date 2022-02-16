@@ -10,7 +10,7 @@ I left my baby, now I'm falling apart,
 
 Feel like a bus drove over my heart.
 
-## Verse 1
+## Verse 2
 
 I'd bring her back again, that's what I'd do,
 
@@ -20,12 +20,19 @@ You gotta hear me, Lady Bus Driver,
 
 I never miss your bus, but I do miss her.
 
-Whoa'-oh'
-She could' be an'ywhere
-My ba'by could' be an'ywhere
-Whoa'-oh'
-La'dy Bus' Driver'
-Don't' you e'ven care'?
+## Chorus 1
+
+Whoa-oh,
+
+She could be anywhere,
+
+My baby could be anywhere,
+
+Whoa-oh,
+
+Lady Bus Driver,
+
+Don't you even care?
 
 She could' be in Jakar'ta, now, or New' Orleans'.
 Could' be' Tahi'ti or in Glen'dale, Queens',
