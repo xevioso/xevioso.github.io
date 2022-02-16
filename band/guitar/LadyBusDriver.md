@@ -50,8 +50,9 @@ I left my baby and she went away,
 
 Up to Tbilisi or down to Santa Fe.
 
-She' could' be fly'ing out' to Fujian',
-Lady' Bus Dri'ver, say, what's' the plan'?
+She could be flying out to Fujian,
+
+Lady Bus Driver, say, what's the plan?
 
 Whoa'-oh'
 I tore our love apart
