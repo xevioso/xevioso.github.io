@@ -1,3 +1,5 @@
+[Guitar Tabs](index.md)
+
 # Lady Bus Driver
 
 ## Verse 1
