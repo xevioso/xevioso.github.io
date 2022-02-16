@@ -78,17 +78,32 @@ Maybe she found a job in Curaçao,
 
 Lady Bus Driver, can't we leave right now?
 
+## Verse 6
+
 They have volcanoes all across Japan,
+
 Big mafiosi running round Milan.
+
 If she's in Bali learning Balinese,
+
 Lady Bus Driver, won't you fetch her please?
 
-Whoa'-oh'
-She could' be an'ywhere
-My ba'by could' be an'ywhere
-Whoa'-oh'
-La'dy Bus' Driver'
-Won't' you drive' us both there'?
+## Chorus 3
 
-She could' be an'ywhere
-My ba'by could' be an'ywhere...
+Whoa-oh,
+
+She could be anywhere,
+
+My baby could be anywhere,
+
+Whoa-oh,
+
+Lady Bus Driver,
+
+Won't you drive us both there?
+
+## Outro
+
+She could be anywhere,
+
+My baby could be anywhere...
