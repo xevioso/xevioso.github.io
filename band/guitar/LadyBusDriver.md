@@ -68,10 +68,15 @@ Lady Bus Driver,
 
 Ain't it breaking your heart?
 
+## Verse 5
+
 She could be all alone in Rejkavik,
+
 I left my baby and I'm worried sick.
+
 Maybe she found a job in Curaçao,
-Lady' Bus Dri'ver, can't we leave' right now'?
+
+Lady Bus Driver, can't we leave right now?
 
 They have volcanoes all across Japan,
 Big mafiosi running round Milan.
