@@ -10,10 +10,15 @@ I left my baby, now I'm falling apart,
 
 Feel like a bus drove over my heart.
 
-I'd bring' her back' again, that's what' I'd do'
-If I' could drive' away' on wheels' like you'.
-You gott'a hear' me, La'dy Bus' Driver',
-I never miss' your bus', but I do' miss her'.
+## Verse 1
+
+I'd bring her back again, that's what I'd do,
+
+If I could drive away on wheels like you.
+
+You gotta hear me, Lady Bus Driver,
+
+I never miss your bus, but I do miss her.
 
 Whoa'-oh'
 She could' be an'ywhere
