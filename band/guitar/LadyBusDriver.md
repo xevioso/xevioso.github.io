@@ -54,12 +54,19 @@ She could be flying out to Fujian,
 
 Lady Bus Driver, say, what's the plan?
 
-Whoa'-oh'
-I tore our love apart
-And now my tears start
-Whoa'-oh'
-La'dy Bus' Driver'
-Ain't' it break'ing your heart'?
+## Chorus 2
+
+Whoa-oh,
+
+I tore our love apart,
+
+And now my tears start,
+
+Whoa-oh,
+
+Lady Bus Driver,
+
+Ain't it breaking your heart?
 
 She could be all alone in Rejkavik,
 I left my baby and I'm worried sick.
