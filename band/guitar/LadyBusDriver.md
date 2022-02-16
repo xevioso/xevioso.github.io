@@ -34,13 +34,22 @@ Lady Bus Driver,
 
 Don't you even care?
 
-She could' be in Jakar'ta, now, or New' Orleans'.
-Could' be' Tahi'ti or in Glen'dale, Queens',
-Tegu'cigal'pa or Del'aware',
-Lady' Bus Dri'ver, won't you drive' us there'?
+## Verse 3
 
-I left' my ba'by and she went' away',
-Up' to Tbili'si or down' to San'ta Fe.
+She could be in Jakarta, now, or New Orleans.
+
+Could be Tahiti or in Glendale, Queens,
+
+Tegucigalpa or Delaware,
+
+Lady Bus Driver, won't you drive us there?
+
+## Verse 4
+
+I left my baby and she went away,
+
+Up to Tbilisi or down to Santa Fe.
+
 She' could' be fly'ing out' to Fujian',
 Lady' Bus Dri'ver, say, what's' the plan'?
 
