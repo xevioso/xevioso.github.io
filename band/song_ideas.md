@@ -9,6 +9,8 @@
     - https://youtu.be/PUdyuKaGQd4
 - 10 Rocks
     - https://youtu.be/AEhGIdRotEg
+- Jolene
+    - https://youtu.be/wOwblaKmyVw
 - Proud Mary
     - https://youtu.be/5hid10EgMXE
 - Here You Come Again
