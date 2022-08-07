@@ -15,6 +15,8 @@
     - https://youtu.be/de4bBIBrabw
 - I Want To See The Bright Lights Tonight
     - https://youtu.be/Vh8m8DUbXT0
+- Little Miss Lonely
+    - https://youtu.be/_8nra4u70iQ
 
 
 - Fleetwood Mac: Dreams
