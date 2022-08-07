@@ -17,6 +17,8 @@
     - https://youtu.be/aLnZ1NQm2uk
 - Walk On
     - https://youtu.be/ATYh0icMDtw
+- Have You Ever Seen The Rain
+    - https://youtu.be/iyf0ZIh3SVo
 - Down Home Girl
     - https://youtu.be/de4bBIBrabw
 - Here You Come Again
