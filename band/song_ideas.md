@@ -5,20 +5,20 @@
 
 # Song ideas
 
-- I've Got No Roots
-    - https://youtu.be/PUdyuKaGQd4
-- 10 Rocks
-    - https://youtu.be/AEhGIdRotEg
-- Jolene
-    - https://youtu.be/wOwblaKmyVw
 - Proud Mary
     - https://youtu.be/5hid10EgMXE
+- 10 Rocks
+    - https://youtu.be/AEhGIdRotEg
+- I've Got No Roots
+    - https://youtu.be/PUdyuKaGQd4
+- Jolene
+    - https://youtu.be/wOwblaKmyVw
 - All About That Bass
     - https://youtu.be/aLnZ1NQm2uk
-- Here You Come Again
-    - https://youtu.be/bflkeWVTNk0
 - Walk On
     - https://youtu.be/ATYh0icMDtw
+- Here You Come Again
+    - https://youtu.be/bflkeWVTNk0
 - Down Home Girl
     - https://youtu.be/de4bBIBrabw
 - Pump It Up
