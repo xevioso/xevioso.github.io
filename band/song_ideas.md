@@ -13,12 +13,12 @@
     - https://youtu.be/wOwblaKmyVw
 - Proud Mary
     - https://youtu.be/5hid10EgMXE
+- All About That Bass
+    - https://youtu.be/aLnZ1NQm2uk
 - Here You Come Again
     - https://youtu.be/bflkeWVTNk0
 - Walk On
     - https://youtu.be/ATYh0icMDtw
-- All About That Bass
-    - https://youtu.be/aLnZ1NQm2uk
 - Down Home Girl
     - https://youtu.be/de4bBIBrabw
 - You're My World
