@@ -15,10 +15,14 @@
     - https://youtu.be/bflkeWVTNk0
 - Walk On
     - https://youtu.be/ATYh0icMDtw
+- All About That Bass
+    - https://youtu.be/aLnZ1NQm2uk
 - Down Home Girl
     - https://youtu.be/de4bBIBrabw
 - You're My World
    - https://youtu.be/e7-QBw862zk
+- Pump It Up
+    - https://youtu.be/3Y71iDvCYXA
 - I Want To See The Bright Lights Tonight
     - https://youtu.be/Vh8m8DUbXT0
 - Sweet Caroline
