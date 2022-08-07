@@ -9,6 +9,8 @@
     - https://youtu.be/PUdyuKaGQd4
 - 10 Rocks
     - https://youtu.be/AEhGIdRotEg
+- Proud Mary
+    - https://youtu.be/5hid10EgMXE
 - Here You Come Again
     - https://youtu.be/bflkeWVTNk0
 - Walk On
