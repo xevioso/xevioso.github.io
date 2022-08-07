@@ -1,4 +1,4 @@
-- OK so this is my proposal:
+- OK so this is my proposal for the new look Жук:
 - Mr Bayside: keyboards, drum machine, backing vocals.
 - Data Dave: Bass, backing vocals.
 - Pipes: Lead vocals, guitar.
