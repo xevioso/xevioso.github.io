@@ -1,5 +1,15 @@
+- OK so this is my proposal:
+- Andy: keyboards, drum machine, backing vocals.
+- Dave: Bass, backing vocals.
+- Pipes: Lead vocals, guitar.
+
 # Song ideas
-- Fleetwood Mac: Dreams
-    - https://youtu.be/5oWyMakvQew
+
 - I've Got No Roots
     - https://youtu.be/PUdyuKaGQd4
+- 10 Rocks
+    - https://youtu.be/AEhGIdRotEg
+
+
+- Fleetwood Mac: Dreams
+    - https://youtu.be/5oWyMakvQew
