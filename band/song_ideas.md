@@ -1,6 +1,6 @@
 - OK so this is my proposal:
-- Andy: keyboards, drum machine, backing vocals.
-- Dave: Bass, backing vocals.
+- Mr Bayside: keyboards, drum machine, backing vocals.
+- Data Dave: Bass, backing vocals.
 - Pipes: Lead vocals, guitar.
 
 # Song ideas
