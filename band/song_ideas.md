@@ -13,6 +13,8 @@
     - https://youtu.be/PUdyuKaGQd4
 - Jolene
     - https://youtu.be/wOwblaKmyVw
+- So Far Away
+    - https://youtu.be/UofYl3dataU
 - All About That Bass
     - https://youtu.be/aLnZ1NQm2uk
 - Walk On
