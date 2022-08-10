@@ -31,13 +31,6 @@
 
 ## Verse 1
 
-### Melody
-```
-B-C-B-A-G-A-C-B-A-G-A-G
-B-C-B-A-B-B-B-B-D-D-B-A-G
-G-G-C-C-B-A-C-C-C-B-B-A-G
-```
-
 [G] By an /open window [C] we /lay awake all [G] /night [D]
 
 [G] In the [G] /rising [Bm] /dawn you wore a /suit of morning [C] /light [C]
@@ -53,12 +46,6 @@ And the [D] /sun rose and it [D7] /felt like the very first [G] /time.
 And I [D] /woke up flying to [D7] /you lying there in the [G] /light. [D]
 
 ## Chorus
-
-### Melody
-```
-B-B-B-A-B-B-B-D
-B-B-B-D-D-E-D
-```
 
 [G/A] /When I'm /with you [Gmaj7/A] /I'm like /sunup [G6/A] - [G6/A]
 
