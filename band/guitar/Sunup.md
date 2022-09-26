@@ -43,7 +43,7 @@ And the [D] /sun rose and it [D7] /felt like the very first [G] /time.
 
 [G] Then [G] /morning [Bm] /broke and the /sky began to [C] /sing [C]
 
-And I [D] /woke up flying to [D7] /you lying there in the [G] /light. [D]
+And I [D] /rose up flying to [D7] /you lying there in the [G] /light. [D]
 
 ## Chorus
 
